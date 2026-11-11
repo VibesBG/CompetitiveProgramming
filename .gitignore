@@ -1,0 +1,16 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.class
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+x64/
+Debug/
+Release/
